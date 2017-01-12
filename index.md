@@ -1,4 +1,6 @@
- <h3>DISCLAIMER:<br>I DO NOT OWN THE GRAPHICS USED IN THIS DEMO.<br>ALL CHARACTERS AND GRAPHICS ARE OWNED BY CAPCOM.</h3>
+ <h3>DISCLAIMER:<br>
+ I DO NOT OWN THE GRAPHICS USED IN THIS DEMO.<br>
+ ALL CHARACTERS AND GRAPHICS ARE OWNED BY CAPCOM.</h3>
  <h3><p align="center">What Is This?</p></h3>
         
 <p>This is my latest and greatest project. I have spent the past three months developing a 2D fighitng game, currently named Project V, with my hand-made 2D fighting game framework.
