@@ -1,7 +1,7 @@
-title: Project V
+title: Cap Vs. Com
 description: A 2D Fighting Game + Framework
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-midnight
 
 gems:
