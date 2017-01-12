@@ -28,7 +28,7 @@
 <p>Partners can be summoned to provide a helpful boost in battle. Be it to attack from afar or to help extend your combo, simply press the Assist button and your partner will jump on screen to help.</p>
 <p> In the latest build playable Assist characters have been added. With this additional moves can be done. A Cross-Assault can be done by holding down the Assist button. Inputting QCF + Assist will use up one special bar and perform a Snap Back which will swap out the opponent wth his Assist, if playable. Lastly, a Hyper Swap can be done, while performing a Hyper Attack, input the motions for your assist's Hyper Attack, and your assist will swap and perform the desired Hyper Attack.</p>
         
-<p align="center">Video </p>
+<h3><p align="center">Video </p></h3>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gS0Z03F4wWI" frameborder="0" allowfullscreen></iframe></p>
         
 <p>Download the demo <a href="https://drive.google.com/open?id=0B63ySixcTyG4UUVGTzk4Tm9fLUk">here.</a><br/><b><i>NOTE: This is an in development build. I cannot guarantee that it is bug and crash free.</i></b></p>
