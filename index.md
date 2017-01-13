@@ -25,7 +25,8 @@
 </ul>
  
  <h3><p align="center">The Demo</p></h3>
-<p>The demo has two modes, Local Vs mode, where you can fight against your friends and Training mode, where you can practice moves and combos. There are 2 playable characters (Ryu and Kyosuke) and 2 non-playable assist characters (Saki and Ton Pooh). Selecting a non-playable assist will give your main playable character double health.<br>The gamplay is reminiscent of Marvel vs Capcom 3. There are Light, Medium, Heavy, and Special buttons and to combo you must press each button in ascending order (L to M to H to Sp). Any move can be canceled into Special Moves such as Hadouken or into a Hyper Move such as the Shin Shoryuken.</p>
+<p>The demo has two modes, Local Vs mode, where you can fight against your friends and Training mode, where you can practice moves and combos. There are 2 playable characters (Ryu and Kyosuke) and 2 non-playable assist characters (Saki and Ton Pooh). Selecting a non-playable assist will give your main playable character double health.</p>
+<p>The gamplay is reminiscent of Marvel vs Capcom 3. There are Light, Medium, Heavy, and Special buttons and to combo you must press each button in ascending order (L to M to H to Sp). Any move can be canceled into Special Moves such as Hadouken or into a Hyper Move such as the Shin Shoryuken.</p>
 <p>Assists can be summoned to provide a helpful boost in battle. Be it to attack from afar or to help extend your combo, simply press the Assist button and your partner will jump on screen to help.
 <br>Assists have their share of unique moves that can be performe:
 <ul>
