@@ -35,7 +35,7 @@
  <li>Lastly, a Hyper Swap can be done, while performing a Hyper Attack, input the motions for your assist's Hyper Attack, and your assist will swap and perform the desired Hyper Attack.</li>
  </ul></p>
 
-<p>Download the demo <a href="https://drive.google.com/open?id=0B63ySixcTyG4UUVGTzk4Tm9fLUk">HERE</a>.</p>
+<p><a href="https://drive.google.com/open?id=0B63ySixcTyG4UUVGTzk4Tm9fLUk">Download the demo here.</a>.</p>
 
 <p align="center"><i><b>This is a nonprofit fan game demo. All content used (Music, Graphics, Fonts) is owned by Capcom. <br>Please support the official releases.</b></i></p>
       
