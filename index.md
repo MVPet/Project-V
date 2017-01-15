@@ -46,4 +46,4 @@ All content used (Music, Graphics, Fonts) is owned by Capcom.<br>Please support 
 <h3><p align="center">Video </p></h3>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gS0Z03F4wWI" frameborder="0" allowfullscreen></iframe></p>
 <br>
-<p><a href="http://mvpet.github.io/">Back to Main Page</a></p>
+<p align="center"><a href="http://mvpet.github.io/">Back to Main Page</a></p>
