@@ -3,7 +3,7 @@
 <b><i>Development Time: July 2016 to December 2016</i></b><br>
 </h4>
 <br>
-<p>This is my most recent project and last fan game I will develop. The project began after reading the rumor about the fabled Capcom Vs. Capcom game that, had it been made, would have been based on Marvel Vs Capcom 3. I have always wanted to create a fighting game and with the lack of a Capcom Versus game, I decided to take a shot at developing a Capcom Vs. Capcom. However, with the recent announcement of Marvel Vs Capcom Infinite and ports of Ultimate Marvel Vs Capcom 3, I have decided to stop development on this fan game.<p>
+<p>This is my most recent project and last fan game I developed. The project began after reading the rumor about the fabled Capcom Vs. Capcom game that, had it been made, would have been based on Marvel Vs Capcom 3. I have always wanted to create a fighting game and with the lack of a Capcom Versus game, I decided to take a shot at developing a Capcom Vs. Capcom. However, with the recent announcement of Marvel Vs Capcom Infinite and ports of Ultimate Marvel Vs Capcom 3, I have decided to stop development on this fan game.<p>
 
 <h3><p align="center">Framework Design</p></h3>
 
@@ -19,7 +19,7 @@
 
 <p>The game and framework have the following features:</p>
 <ul>
- <li>Support for two players simulationiously. </li>
+ <li>Support for two players simultaneously. </li>
  <li>DInput/XInput Controller support and Keyboard support</li>
  <li>Dynamic detection of controllers (Only at startup in current build)</li>
  <li>Marvel vs. Capcom-like Partner System</li>
